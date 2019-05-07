@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "unordered_map": "cpp",
+        "iostream":"cpp",
+        "vector": "cpp",
+        "string":"cpp",
+        "initializer_list": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "python.pythonPath": "/home/xuyuting/anaconda2/bin/python"
+}

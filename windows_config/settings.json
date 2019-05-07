@@ -1,0 +1,13 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "D:\\ProgramData\\Anaconda3\\python.exe",
+    "files.associations": {
+        "array": "cpp",
+        "unordered_map": "cpp",
+        "iostream":"cpp",
+        "vector": "cpp",
+        "string":"cpp",
+        "initializer_list": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
